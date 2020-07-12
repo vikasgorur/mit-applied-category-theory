@@ -1,0 +1,1 @@
+Notes and exercises from study of MIT's [Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/)
